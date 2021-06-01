@@ -144,6 +144,7 @@ export default createMuiTheme({
         fontSize: "1rem",
       },
     },
+
     MuiInput: {
       root: {
         color: arcGrey,
